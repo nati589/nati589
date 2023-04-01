@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nati589&label=Profile%20views&color=0e75b6&style=flat" alt="nati589" /> </p>
 
-- 🔭 I’m currently working on [Staff Load Management](https://github.com/Nedmon12/AASTU-staff-load-management)
+- 🔭 I’m currently working on [Stock Management System](https://github.com/nati589/Stock-Management-s)
 
 - 🌱 I’m currently learning **React Native**
 
