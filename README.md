@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nati589&label=Profile%20views&color=0e75b6&style=flat" alt="nati589" /> </p>
 
-- 🔭 I’m currently working on [StockUp](https://github.com/nati589/StockUp)
+- 🔭 I’m currently working on [IOU](https://github.com/nati589/IOU)
 
 - 🌱 I’m currently learning **React Native**
 
