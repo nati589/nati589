@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Natan Mekebib</h1>
 <h3 align="center">A passionate fullstack developer.</h3>
-<img align='right' width='300' alt='Coding' src='https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b95236xxofbvikkh6eg4upsy5vd2jtzh075d5ekdihj1&rid=giphy.gif&ct=s'>
+<!-- <img align='right' width='300' alt='Coding' src='https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b95236xxofbvikkh6eg4upsy5vd2jtzh075d5ekdihj1&rid=giphy.gif&ct=s'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nati589&label=Profile%20views&color=0e75b6&style=flat" alt="nati589" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nati589&label=Profile%20views&color=0e75b6&style=flat" alt="nati589" /> </p> -->
 
 - 🔭 I’m currently working on [IOU](https://github.com/nati589/IOU)
 
