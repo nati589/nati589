@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Elearning](https://github.com/nati589/elearning)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **React, Node**
 
