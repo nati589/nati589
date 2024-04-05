@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natan Mekebib</h1>
-<h3 align="center">Full Stack developer.</h3>
+<h3 align="center">Full Stack Developer.</h3>
 <!-- <img align='right' width='300' alt='Coding' src='https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b95236xxofbvikkh6eg4upsy5vd2jtzh075d5ekdihj1&rid=giphy.gif&ct=s'> -->
 <img align='right' width='300' alt='Coding' src='https://www.careerguide.com/career/wp-content/uploads/2021/10/Boy-Working-From-Home.gif'>
 
