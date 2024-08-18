@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Elearning](https://github.com/nati589/elearning)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **React, Node**
 
